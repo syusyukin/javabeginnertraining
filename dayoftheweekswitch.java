@@ -6,6 +6,7 @@ public class dayoftheweekswitch {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a whole number between 1 and 7: ");
         int number=scan.nextInt();  
+        scan.close();
         switch(number)
         {
             case 1:
