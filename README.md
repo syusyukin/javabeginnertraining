@@ -39,23 +39,7 @@ Just a demo
 ## diamond
 
 7. Write a program in Java to display the pattern like a diamond.
-Test Data
-Input number of rows (half of the diamond) : 7
-Expected Output :
-                                                                                 
-      *                                                                          
-     ***                                                                         
-    *****                                                                        
-   *******                                                                       
-  *********                                                                      
- ***********                                                                     
-*************                                                                    
- ***********                                                                     
-  *********                                                                      
-   *******                                                                       
-    *****                                                                        
-     ***                                                                         
-      *         
+
 
 ## digitbreak
 
@@ -101,10 +85,7 @@ Expected Output :
 ## incrementnumbertriangle
 
 5. Write a program in Java to make such a pattern like right angle triangle with number increased by 1.The pattern like:
-1
-2 3
-4 5 6
-7 8 9 10 
+
 
 ## integermanipulation
 
@@ -149,10 +130,6 @@ Number is positive
 ## pyramid
 
 6. Write a program in Java to make such a pattern like a pyramid with a number which will repeat the number in the same row. 
-*       1
-*      2 2
-*     3 3 3
-*    4 4 4 4 
 
 ## removespaces
 
@@ -161,10 +138,6 @@ Number is positive
 ## repeatingnumbertriangle
 
 4. Write a program in Java to make such a pattern like right angle triangle with a number which will repeat a number in a row.The pattern is as follows:
-1
-22
-333
-4444
 
 ## reversearray
 
